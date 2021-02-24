@@ -1,0 +1,188 @@
+{
+  "CoinMarketCap": [
+    {
+      "UsdPair": "$0.9392",
+      "Symbol": "ADA",
+      "Low24hr": "$0.8241",
+      "High24hr": "$1.13",
+      "MarketCap": "$29,220,193,076",
+      "FullyDilutedMarketCap": "$42,263,056,242",
+      "Volume": "$11,984,505,870",
+      "CirculatingSupply": "31,112,484,646 ADA",
+      "MaxSupply": "45,000,000,000",
+      "BtcPair": "0.00001996 BTC",
+      "EthPair": "0.0006227 ETH",
+      "PercentChange": "38.10%"
+    },
+    {
+      "UsdPair": "$46,980.62",
+      "Symbol": "BTC",
+      "Low24hr": "$45,290.59",
+      "High24hr": "$55,034.81",
+      "MarketCap": "$875,557,588,950",
+      "FullyDilutedMarketCap": "$986,593,098,469",
+      "Volume": "$101,514,997,287",
+      "CirculatingSupply": "18,636,568 BTC",
+      "MaxSupply": "18,636,568",
+      "BtcPair": "",
+      "EthPair": "31.08 ETH",
+      "PercentChange": "20.86%"
+    },
+    {
+      "UsdPair": "$1,510.08",
+      "Symbol": "ETH",
+      "Low24hr": "$1,378.84",
+      "High24hr": "$1,803.62",
+      "MarketCap": "$173,345,466,611",
+      "FullyDilutedMarketCap": "- -",
+      "Volume": "$49,917,025,635",
+      "CirculatingSupply": "114,792,374 ETH",
+      "MaxSupply": "114,792,374",
+      "BtcPair": "0.03210 BTC",
+      "EthPair": "",
+      "PercentChange": "30.91%"
+    },
+    {
+      "UsdPair": "$32.18",
+      "Symbol": "DOT",
+      "Low24hr": "$26.76",
+      "High24hr": "$37.71",
+      "MarketCap": "$29,352,812,939",
+      "FullyDilutedMarketCap": "- -",
+      "Volume": "$7,322,935,374",
+      "CirculatingSupply": "912,248,924 DOT",
+      "MaxSupply": "1,047,909,711",
+      "BtcPair": "0.0006820 BTC",
+      "EthPair": "0.02129 ETH",
+      "PercentChange": "44.72%"
+    },
+    {
+      "UsdPair": "$218.51",
+      "Symbol": "BNB",
+      "Low24hr": "$191.19",
+      "High24hr": "$275.39",
+      "MarketCap": "$33,766,316,268",
+      "FullyDilutedMarketCap": "$37,262,409,736",
+      "Volume": "$7,882,811,949",
+      "CirculatingSupply": "154,532,785 BNB",
+      "MaxSupply": "170,532,785",
+      "BtcPair": "0.004635 BTC",
+      "EthPair": "0.1447 ETH",
+      "PercentChange": "10.12%"
+    },
+    {
+      "UsdPair": "$169.87",
+      "Symbol": "LTC",
+      "Low24hr": "$159.68",
+      "High24hr": "$209.60",
+      "MarketCap": "$11,303,469,120",
+      "FullyDilutedMarketCap": "$14,269,369,936",
+      "Volume": "$10,614,311,316",
+      "CirculatingSupply": "66,540,528 LTC",
+      "MaxSupply": "66,540,528",
+      "BtcPair": "0.003611 BTC",
+      "EthPair": "0.1127 ETH",
+      "PercentChange": "20.16%"
+    },
+    {
+      "UsdPair": "$500.86",
+      "Symbol": "BCH",
+      "Low24hr": "$417.32",
+      "High24hr": "$630.78",
+      "MarketCap": "$9,347,352,818",
+      "FullyDilutedMarketCap": "$10,518,109,147",
+      "Volume": "$8,220,700,158",
+      "CirculatingSupply": "18,662,519 BCH",
+      "MaxSupply": "18,662,519",
+      "BtcPair": "0.01069 BTC",
+      "EthPair": "0.3342 ETH",
+      "PercentChange": "15.86%"
+    },
+    {
+      "UsdPair": "$0.04542",
+      "Symbol": "DOGE",
+      "Low24hr": "$0.04241",
+      "High24hr": "$0.05428",
+      "MarketCap": "$5,836,290,233",
+      "FullyDilutedMarketCap": "- -",
+      "Volume": "$2,348,007,471",
+      "CirculatingSupply": "128,495,957,919 DOGE",
+      "MaxSupply": "128,495,957,919",
+      "BtcPair": "0.0000009653 BTC",
+      "EthPair": "0.00003011 ETH",
+      "PercentChange": "37.70%"
+    },
+    {
+      "UsdPair": "$201.16",
+      "Symbol": "XMR",
+      "Low24hr": "$171.29",
+      "High24hr": "$227.67",
+      "MarketCap": "$3,590,008,926",
+      "FullyDilutedMarketCap": "- -",
+      "Volume": "$1,078,912,147",
+      "CirculatingSupply": "17,846,964 XMR",
+      "MaxSupply": "17,846,964",
+      "BtcPair": "0.004294 BTC",
+      "EthPair": "0.1342 ETH",
+      "PercentChange": "10.98%"
+    },
+    {
+      "UsdPair": "$221.44",
+      "Symbol": "DASH",
+      "Low24hr": "$201.90",
+      "High24hr": "$277.75",
+      "MarketCap": "$2,211,767,385",
+      "FullyDilutedMarketCap": "$4,185,132,391",
+      "Volume": "$2,225,250,631",
+      "CirculatingSupply": "9,988,311 DASH",
+      "MaxSupply": "9,988,311",
+      "BtcPair": "0.004707 BTC",
+      "EthPair": "0.1469 ETH",
+      "PercentChange": "12.31%"
+    }
+  ],
+  "BinanceUS": [
+    [
+      {
+        "Pair": "BTC/USD",
+        "Coin": "Bitcoin",
+        "UsdPair": "46,610.87",
+        "Change24h": "-12.79%",
+        "High24h": "55,027.04",
+        "Low24h": "45,000.00",
+        "MarketCap": "-",
+        "Volume24h": "158,825,074.80"
+      },
+      {
+        "Pair": "ADA/USD",
+        "Coin": "Cardano",
+        "UsdPair": "0.9200",
+        "Change24h": "-9.35%",
+        "High24h": "1.1500",
+        "Low24h": "0.8400",
+        "MarketCap": "-",
+        "Volume24h": "93,763,267.62"
+      },
+      {
+        "Pair": "BNB/USD",
+        "Coin": "BNB",
+        "UsdPair": "215.4601",
+        "Change24h": "-16.33%",
+        "High24h": "275.9080",
+        "Low24h": "186.0000",
+        "MarketCap": "-",
+        "Volume24h": "93,529,233.55"
+      },
+      {
+        "Pair": "ETH/USD",
+        "Coin": "Ethereum",
+        "UsdPair": "1,493.83",
+        "Change24h": "-13.23%",
+        "High24h": "1,805.00",
+        "Low24h": "1,351.53",
+        "MarketCap": "-",
+        "Volume24h": "64,299,444.21"
+      }
+    ]
+  ]
+}
